@@ -11,3 +11,5 @@
   - Shopping cart (with number in UI)
   - Shopping cart only stores list of IDs
   - “Checkout” -> Calculates total + VAT.
+  - After checkout, there should be a bill / confirmation
+  - After checkout, the count should be substracted from inventory
