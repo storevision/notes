@@ -6,6 +6,9 @@ This project is about creating a webstore in a school lesson.
 ### Programming Languages
 - Typescript for Frontend (NextJS)
 
+### Database
+We use Postgres as a database.
+
 ### Development environment
 - Git for version control
 - Docker / Docker-Compose for containers (running the application)
