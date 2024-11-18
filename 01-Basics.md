@@ -1,7 +1,7 @@
 # Basics of the application
 
 ## Discussion (18.11.2024)
-- When the database * application starts, the products are initialized. (Potential extension with admin interface.)
+- When the database + application starts, the products are initialized. (Potential extension with admin interface.)
 - Database should check which schema version is there when starting (“meta” table), init + migration
 - Search in the frontend (filter products -> fuse.js @CommanderRedYT)
 - Send products as an array of objects to clientl
